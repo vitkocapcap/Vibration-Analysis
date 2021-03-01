@@ -3,7 +3,8 @@
 The repository includes ESP8266 server and Matlab script.
 The Java Client can be found from project [Data Acquisition](https://github.com/vitkocapcap/DataAcquisition)
 
-###Updated: all files are located here
+###Updated
+All files are located here
 
 ## ESP8266Server
 This small project intended to read the acceleration caused by the vibration of machine in order to determine the machine health. The measurements will be performed by MPU6050, using I2C communication, with the sample rate of 1kHz. A NodeMCU ESP8266 will also be used as a server to read and transmit the acquired data whenever there is a client request. 
