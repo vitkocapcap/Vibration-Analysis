@@ -3,7 +3,7 @@
 The repository includes ESP8266 server and Matlab script.
 The Java Client can be found from project [Data Acquisition](https://github.com/vitkocapcap/DataAcquisition)
 
-###Updated
+### Updated
 All files are located here
 
 ## ESP8266Server
